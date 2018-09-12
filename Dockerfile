@@ -7,5 +7,5 @@ RUN apk add --update python py-pip bash\
 VOLUME /root/.aws
 VOLUME /project
 WORKDIR /project
-CMD ["bin/bash]
+CMD ["bin/bash"]
 #ENTRYPOINT ["bin/bash"]
