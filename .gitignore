@@ -1,0 +1,31 @@
+inventory.txt
+.terraform/
+*.backup
+.idea
+*.iml
+*.retry
+k8s_ansible_vars.txt
+terraform.tfstate*
+cluster_config.yaml
+*generated*
+tmp/
+
+# Compiled class file
+*.class
+
+# BlueJ files
+*.ctxt
+
+# Log file
+*.log
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
